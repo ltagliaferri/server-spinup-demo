@@ -1,1 +1,1 @@
-Code from https://katjuell.site, which runs an Express app with Bootstrap 4 on Docker containers. SSL implemented with a containerized workflow.
+Application for DigitalOcean's Server Spin-Up educational program.
